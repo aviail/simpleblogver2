@@ -1,0 +1,2 @@
+class Caluclator < ApplicationRecord
+end
